@@ -1,5 +1,5 @@
 # Branding for a fictive café
-Some branding item to Lavender Coffee, including logo, drink-menu, and business card.
+Some branding item to Lavender Café, including logo, drink-menu, and business card.
 
 ## Built with
 Adobe Illustrator
